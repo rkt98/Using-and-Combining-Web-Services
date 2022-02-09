@@ -15,5 +15,5 @@ ehthumbs.db
 Thumbs.db
 
 # Config Files #
-config.php
-config.js
+/JS/config.js
+/PHP/config.php
